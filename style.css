@@ -12903,7 +12903,6 @@ span.ttr_block_heading {
   .active>div:first-child+div+div {
     display: block;
   }
-
   .active>div:first-child+div+div+div {
     display: block;
   }
